@@ -1,6 +1,6 @@
 # Live-Chatbot
 
-Chatbot made in Python using Natural Language Toolkit especially Machine Learning. Easy to Understand and Implement. Chatbot system for Final Year Project 
+Chatbot made in Python using Natural Language Toolkit especially Machine Learning. Easy to Understand and Implement.
 
 ### Chatbot: 
 A chatbot is software that simulates human-like conversations with users via text messages on chat.
